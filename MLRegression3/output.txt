@@ -1,0 +1,315 @@
+
+Loading file: wk3_kc_house_set_1_data.csv with maxPol: 15
+Intercept:  539058.818669
+    features  estimatedCoefficients
+0    power_1           3.057942e-90
+1    power_2           2.996187e-49
+2    power_3          -1.351671e-54
+3    power_4          -9.956824e-60
+4    power_5           3.230827e-74
+5    power_6           1.103583e-70
+6    power_7           8.377240e-67
+7    power_8           6.234120e-63
+8    power_9           4.491564e-59
+9   power_10           3.069388e-55
+10  power_11           1.917493e-51
+11  power_12           1.013352e-47
+12  power_13           3.621770e-44
+13  power_14          -5.635017e-48
+14  power_15           2.186411e-52
+
+Loading file: wk3_kc_house_set_2_data.csv with maxPol: 15
+Intercept:  506867.729546
+    features  estimatedCoefficients
+0    power_1           2.713359e-77
+1    power_2           7.335418e-39
+2    power_3          -1.850402e-44
+3    power_4           7.804769e-50
+4    power_5           5.737862e-71
+5    power_6           1.519350e-58
+6    power_7           3.645496e-55
+7    power_8           1.504163e-51
+8    power_9           5.760157e-48
+9   power_10           1.957705e-44
+10  power_11           5.393965e-41
+11  power_12           9.403763e-38
+12  power_13          -3.635291e-41
+13  power_14           4.654765e-45
+14  power_15          -1.971993e-49
+
+Loading file: wk3_kc_house_set_3_data.csv with maxPol: 15
+Intercept:  530874.316653
+    features  estimatedCoefficients
+0    power_1           2.837519e-88
+1    power_2          -7.802242e-49
+2    power_3           2.908256e-55
+3    power_4           3.225079e-85
+4    power_5           1.571702e-72
+5    power_6           4.278949e-69
+6    power_7           2.680096e-65
+7    power_8           1.639114e-61
+8    power_9           9.664350e-58
+9   power_10           5.380447e-54
+10  power_11           2.725636e-50
+11  power_12           1.162532e-46
+12  power_13           3.337561e-43
+13  power_14          -6.762388e-47
+14  power_15           3.431329e-51
+
+Loading file: wk3_kc_house_set_4_data.csv with maxPol: 15
+Intercept:  494819.269569
+    features  estimatedCoefficients
+0    power_1           1.371161e-76
+1    power_2           2.797228e-40
+2    power_3          -2.132439e-44
+3    power_4          -6.293777e-49
+4    power_5           2.584203e-70
+5    power_6           5.290025e-58
+6    power_7           1.270700e-54
+7    power_8           4.878690e-51
+8    power_9           1.735490e-47
+9   power_10           5.470583e-44
+10  power_11           1.395876e-40
+11  power_12           2.250419e-37
+12  power_13          -9.439541e-41
+13  power_14           1.315731e-44
+14  power_15          -6.091634e-49
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 1
+Intercept:  -59493.3171652
+  features  estimatedCoefficients
+0  power_1             288.598464
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 1
+Validation Rss:  6.290978863e+14
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 2
+Intercept:  267506.280132
+  features  estimatedCoefficients
+0  power_1               1.226738
+1  power_2               0.052295
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 2
+Validation Rss:  6.23955062707e+14
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 3
+Intercept:  262170.64834
+  features  estimatedCoefficients
+0  power_1           7.502921e+00
+1  power_2           5.030636e-02
+2  power_3           1.670907e-07
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 3
+Validation Rss:  6.25820280252e+14
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 4
+Intercept:  277368.465465
+  features  estimatedCoefficients
+0  power_1          -1.538528e+01
+1  power_2           6.089709e-02
+2  power_3          -1.614966e-06
+3  power_4           9.117253e-11
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 4
+Validation Rss:  6.2998733895e+14
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 5
+Intercept:  266178.090128
+  features  estimatedCoefficients
+0  power_1           3.196040e-05
+1  power_2           5.443762e-02
+2  power_3          -6.352202e-07
+3  power_4           4.741466e-11
+4  power_5          -2.006730e-16
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 5
+Validation Rss:  6.28240982194e+14
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 6
+Intercept:  297506.754408
+  features  estimatedCoefficients
+0  power_1           8.500634e-12
+1  power_2           1.432643e-08
+2  power_3           3.794127e-05
+3  power_4          -9.897943e-09
+4  power_5           1.060747e-12
+5  power_6          -3.908744e-17
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 6
+Validation Rss:  5.66268577389e+14
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 7
+Intercept:  344491.522807
+  features  estimatedCoefficients
+0  power_1           8.802096e-19
+1  power_2           1.067354e-12
+2  power_3           8.652398e-12
+3  power_4           1.402825e-08
+4  power_5          -4.304799e-12
+5  power_6           4.647962e-16
+6  power_7          -1.674478e-20
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 7
+Validation Rss:  1.07384538201e+15
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 8
+Intercept:  391486.554524
+  features  estimatedCoefficients
+0  power_1           5.376768e-26
+1  power_2          -5.008549e-15
+2  power_3           5.443317e-19
+3  power_4           2.174759e-15
+4  power_5           3.747184e-12
+5  power_6          -1.178195e-15
+6  power_7           1.249868e-19
+7  power_8          -4.383612e-24
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 8
+Validation Rss:  7.08791406717e+15
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 9
+Intercept:  431227.764704
+  features  estimatedCoefficients
+0  power_1           2.354408e-33
+1  power_2           5.553250e-18
+2  power_3           2.620931e-23
+3  power_4           1.613498e-22
+4  power_5           4.530064e-19
+5  power_6           8.235231e-16
+6  power_7          -2.585760e-19
+7  power_8           2.699144e-23
+8  power_9          -9.284850e-28
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 9
+Validation Rss:  4.52995887703e+16
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 10
+Intercept:  461936.899979
+   features  estimatedCoefficients
+0   power_1           8.101943e-41
+1   power_2           1.718407e-21
+2   power_3           7.503810e-27
+3   power_4           8.376403e-30
+4   power_5           2.829898e-26
+5   power_6           8.325111e-23
+6   power_7           1.580824e-19
+7   power_8          -4.938712e-23
+8   power_9           5.100073e-27
+9  power_10          -1.733542e-31
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 10
+Validation Rss:  2.47577503211e+17
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 11
+Intercept:  484256.653936
+    features  estimatedCoefficients
+0    power_1           2.320149e-48
+1    power_2          -1.709021e-25
+2    power_3           4.022820e-30
+3    power_4          -4.027420e-35
+4    power_5           1.227970e-33
+5    power_6           4.563870e-30
+6    power_7           1.396239e-26
+7    power_8           2.743987e-23
+8    power_9          -8.534228e-27
+9   power_10           8.752939e-31
+10  power_11          -2.953731e-35
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 11
+Validation Rss:  1.19377933602e+18
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 12
+Intercept:  500202.375199
+    features  estimatedCoefficients
+0    power_1           5.724777e-56
+1    power_2          -5.431120e-28
+2    power_3          -1.369428e-34
+3    power_4           1.608566e-39
+4    power_5           4.203541e-41
+5    power_6           1.786355e-37
+6    power_7           6.870608e-34
+7    power_8           2.166753e-30
+8    power_9           4.370854e-27
+9   power_10          -1.354806e-30
+10  power_11           1.383468e-34
+11  power_12          -4.647834e-39
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 12
+Validation Rss:  5.08132305267e+18
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 13
+Intercept:  531845.574929
+    features  estimatedCoefficients
+0    power_1           1.515038e-73
+1    power_2           2.701275e-42
+2    power_3          -1.999295e-47
+3    power_4           9.287971e-71
+4    power_5           8.664781e-58
+5    power_6           2.619820e-54
+6    power_7           1.650742e-50
+7    power_8           9.866505e-47
+8    power_9           5.388931e-43
+9   power_10           2.487903e-39
+10  power_11           7.759595e-36
+11  power_12          -1.396188e-39
+12  power_13           6.249013e-44
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 13
+Validation Rss:  7.61623002125e+17
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 14
+Intercept:  533699.974705
+    features  estimatedCoefficients
+0    power_1           2.350659e-81
+1    power_2           8.246545e-46
+2    power_3          -2.791056e-51
+3    power_4           1.093029e-78
+4    power_5           1.650042e-65
+5    power_6           4.760357e-62
+6    power_7           3.149550e-58
+7    power_8           2.013535e-54
+8    power_9           1.218213e-50
+9   power_10           6.721016e-47
+10  power_11           3.128752e-43
+11  power_12           9.825284e-40
+12  power_13          -1.773912e-43
+13  power_14           7.959928e-48
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 14
+Validation Rss:  2.29756092511e+18
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 15
+Intercept:  534979.812425
+    features  estimatedCoefficients
+0    power_1           3.656497e-89
+1    power_2           9.489042e-50
+2    power_3          -7.187402e-55
+3    power_4           1.236316e-86
+4    power_5           3.042936e-73
+5    power_6           8.361826e-70
+6    power_7           5.731335e-66
+7    power_8           3.837865e-62
+8    power_9           2.478850e-58
+9   power_10           1.512697e-54
+10  power_11           8.405941e-51
+11  power_12           3.936631e-47
+12  power_13           1.242410e-43
+13  power_14          -2.250419e-47
+14  power_15           1.012366e-51
+
+Loading file: wk3_kc_house_valid_data.csv with maxPol: 15
+Validation Rss:  6.95503809791e+18
+Best polynomial = 6
+
+Loading file: wk3_kc_house_train_data.csv with maxPol: 6
+Intercept:  297506.754408
+  features  estimatedCoefficients
+0  power_1           8.500634e-12
+1  power_2           1.432643e-08
+2  power_3           3.794127e-05
+3  power_4          -9.897943e-09
+4  power_5           1.060747e-12
+5  power_6          -3.908744e-17
+
+Loading file: wk3_kc_house_test_data.csv with maxPol: 6
+Validation Rss:  1.35225114062e+14
